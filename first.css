@@ -1,0 +1,28 @@
+h1{
+    color:blue
+}
+*{
+    border:solid
+}
+
+.head{
+    background-color:yellow;
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+    display :flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.second{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
